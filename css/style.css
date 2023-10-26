@@ -125,6 +125,15 @@ body{
 .greetings > span:nth-child(32){
     animation-delay: .7s ;
 }
+.greetings > span:nth-child(33){
+    animation-delay: .7s ;
+}
+.greetings > span:nth-child(34){
+    animation-delay: .7s ;
+}
+.greetings > span:nth-child(35){
+    animation-delay: .7s ;
+}
 .description{
     font-size: 1rem;
     margin-bottom: 20px;
